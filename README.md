@@ -1,45 +1,42 @@
-# 👋 Hi, I'm Tarun Kumar L
+# 👋 Hi, I'm Tarun Kumar L.
 
-### 💻 Computer Science & Engineering Student | Developer | Tech Enthusiast
+### Computer Science & Engineering Student | Aspiring Software Developer
 
-I'm a Computer Science & Engineering student passionate about building
-practical software projects and exploring technologies in software
-development, cybersecurity, and web development.
+I'm a Computer Science & Engineering student interested in **Python development, software engineering, web development, and cybersecurity**.
 
-I enjoy turning ideas into working applications and continuously improving
-my programming and problem-solving skills.
+I enjoy learning by building projects, solving programming problems, and exploring how software works behind the scenes. I'm currently strengthening my Python skills and developing practical applications to prepare for real-world software development opportunities.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science & Engineering Student
-- 💻 Interested in Software Development
-- 🐍 Learning and building practical projects
-- 🌐 Exploring Web Development
-- 🔐 Interested in Cryptography & Information Security
-- 🧠 Improving Data Structures & Problem Solving
-- 🚀 Building projects to strengthen my development skills
+- 🎓 Computer Science & Engineering student
+- 🐍 Practising Python and building programming projects
+- 💻 Interested in software and backend development
+- 🌐 Exploring web technologies and application development
+- 🔐 Interested in cryptography and information security
+- 🧠 Improving problem-solving and Data Structures & Algorithms
+- 🎯 Working towards a software development career
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### Programming Languages
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Web Development
+**Web Development**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Tools & Technologies
+**Tools & Technologies**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -47,68 +44,63 @@ my programming and problem-solving skills.
 
 ---
 
-## 🔥 Featured Projects
+## 💻 Featured Projects
 
-### 💻 CodeFlow Visualizer
+### 1. CodeFlow Visualizer
 
-An interactive tool designed to visualize program execution
-line-by-line, helping beginners understand control flow,
-variables, and program execution.
+An educational tool designed to help learners understand program execution through line-by-line highlighting, control-flow visualization, and variable tracking.
 
-**Tech:** C/C++ • JavaScript • HTML • CSS • Node.js
+**Technologies:** C/C++, HTML, CSS, JavaScript, Node.js
 
----
+🔗 [View Repository](https://github.com/TarunkumarL/Code-Flow-Visualizer-)
 
-### 🔐 CipherVeil
+### 2. CipherVeil
 
-A cybersecurity project exploring encryption and secure
-information hiding using cryptography and steganography concepts.
+A cybersecurity project exploring cryptography and steganography concepts for learning about encryption and information hiding.
 
-**Tech:** Python • Cryptography • Steganography
+**Technologies:** Python, cryptography concepts, steganography
 
----
+🔗 [View Repository](https://github.com/TarunkumarL/cipherveil)
 
-### 🗳️ Online Voting System
+### 3. Online Voting System
 
-A web-based voting project designed to demonstrate the basic
-workflow of an online voting system.
+A web development project demonstrating the basic workflow of an online voting application.
 
-**Tech:** HTML • CSS • JavaScript
+**Technologies:** HTML, CSS, JavaScript
 
----
+🔗 [View Repository](https://github.com/TarunkumarL/online-voting)
 
-### 🌐 My Portfolio
+### 4. Personal Portfolio
 
-A personal portfolio website showcasing my skills, projects,
-and development journey.
+A website intended to showcase my projects, technical skills, and development journey.
 
-**Tech:** HTML • CSS • JavaScript
+**Technologies:** HTML, CSS, JavaScript
+
+🔗 [View Repository](https://github.com/TarunkumarL/TarunkumarL)
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🐍 Python
-- 🧠 Data Structures & Algorithms
-- 🌐 Web Development
-- 🔐 Cybersecurity
-- 🔒 Cryptography
-- 🛠️ Git & GitHub
+- Python programming and practical application development
+- Data Structures & Algorithms
+- Backend and web development
+- Git and GitHub workflows
+- Cybersecurity and cryptography fundamentals
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 My Goals
 
-- 🚀 Build real-world software projects
-- 🧠 Strengthen Data Structures & Algorithms
-- 🔐 Explore Cybersecurity & Cryptography
-- 🌐 Build and deploy web applications
-- 🤝 Contribute to open-source projects
-- 💼 Prepare for a career in software development
+- Build useful, real-world software projects
+- Improve coding and problem-solving skills
+- Develop and deploy web applications
+- Contribute to open-source projects
+- Gain practical experience through a software development internship
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarunkumarL&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -118,12 +110,12 @@ and development journey.
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: ***
 - 📧 Email: tarunkumarl2006@gmail.com
-- 🌐 Portfolio: ***
+- 💼 LinkedIn: Add your LinkedIn profile URL
+- 🌐 Portfolio: Add your portfolio URL when available
 
 ---
 
-### 💡 Build. Learn. Improve. Repeat.
+### 💡 Learn. Build. Improve. Repeat.
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Thanks for visiting my profile!
