@@ -110,9 +110,13 @@ A website intended to showcase my projects, technical skills, and development jo
 
 ## 🤝 Connect With Me
 
-- 📧 Email: tarunkumarl2006@gmail.com
-- 💼 LinkedIn: Add your LinkedIn profile URL
-- 🌐 Portfolio: Add your portfolio URL when available
+- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/tarunkumarl25452)
+- 🌐 Portfolio: [Visit my website](https://tarunkumarl.github.io/)
+- 💻 GitHub: [Explore my projects](https://github.com/TarunkumarL)
+
+---
+
+### 💡 Learn. Build. Improve. Repeat.
 
 ---
 
