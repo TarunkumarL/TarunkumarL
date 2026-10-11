@@ -76,7 +76,7 @@ A website intended to showcase my projects, technical skills, and development jo
 
 **Technologies:** HTML, CSS, JavaScript
 
-🔗 [View Repository](***)
+🔗 [View Repository](https://tarunkumarl.github.io/)
 
 ---
 
